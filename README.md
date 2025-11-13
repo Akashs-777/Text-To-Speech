@@ -43,9 +43,9 @@ A simple **Text-to-Speech (TTS)** web project that converts written text into sp
 ---
 
 ## 📸 Preview
-
-![TTS App Preview](<img width="1917" height="981" alt="Screenshot 2025-11-12 190838" src="https://github.com/user-attachments/assets/d981e77b-edf3-4903-8763-993e3595ca6d" />
+[TTS App Preview](assets/<img width="1917" height="981" alt="Screenshot 2025-11-12 190838" src="https://github.com/user-attachments/assets/d981e77b-edf3-4903-8763-993e3595ca6d" />
 )
+
 
 ---
 
