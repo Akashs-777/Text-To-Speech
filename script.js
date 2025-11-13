@@ -20,7 +20,7 @@ document.querySelector("button").addEventListener("click",()=>{
     speech.text = document.querySelector("textarea").value;
     window.speechSynthesis.speak(speech);
 })
- 
+ //making alert so that text area not be empty
 document.querySelector("button").addEventListener("click",() =>{
     let txtArea = document.querySelector("textarea");
     if (txtArea.value == ""){
